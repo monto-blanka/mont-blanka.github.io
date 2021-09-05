@@ -7,7 +7,5 @@ our tech blog
  3.  go to proper dir
  4.  $npm i -g @vue/cli @vue/cli-init
  5.  $vue -V
- 6.  $vue init nuxt-community/starter-template my-tech-blog
+ 6.  $yarn create nuxt-app my-tech-blog
  7.  $cd my-tech-blog
- 8.  $yarn
- 9.  $yarn dev
